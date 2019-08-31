@@ -4,4 +4,5 @@
 5. Brenda
 6. david
 7. Jorge
-8. thelma
+8. Daniel
+9. Thelma
